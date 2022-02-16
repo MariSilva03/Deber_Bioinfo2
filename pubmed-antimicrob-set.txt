@@ -1,0 +1,803 @@
+PMID- 30265592
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181217
+LR  - 20181217
+IS  - 1557-8674 (Electronic)
+IS  - 1096-2964 (Linking)
+VI  - 19
+IP  - 8
+DP  - 2018 Nov/Dec
+TI  - Antimicrobial Peptides.
+PG  - 804-811
+LID - 10.1089/sur.2018.194 [doi]
+AB  - BACKGROUND: Bacterial resistance to available antibiotics has resulted in enhanced 
+      efforts at antibiotic stewardship but also has led to investigation into alternative 
+      methods for managing surgical infections. Antimicrobial peptides (AMPs) are 
+      naturally occurring compounds produced by all prokaryotic and eukaryotic cells that 
+      have potential as an alternative to conventional antibiotics. METHODS: The published 
+      literature was reviewed for investigations that were relevant to infections commonly 
+      seen by surgeons and the potential applicability of AMPs for surgical care. RESULTS: 
+      Antimicrobial peptides are low-molecular-weight peptides with activity against 
+      bacteria, fungi, and viruses. Experimental evidence shows that AMPs have activity 
+      against highly resistant bacteria identified from human infections. Furthermore, 
+      these peptides can be designed as semi-synthetic or totally synthetic constructs for 
+      potential clinical use. Antimicrobial peptides appear to have in vivo activity in 
+      limited animal studies, but the experimental models for evaluation of these peptides 
+      need more clinical relevance. These products are in clinical evaluation at present 
+      but are limited in number and are being evaluated primarily for topical 
+      applications. CONCLUSIONS: Antimicrobial peptides have considerable in vitro 
+      evidence that supports their use for the prevention and treatment of surgical 
+      infections. Better experimental and clinical trial efforts are needed to move this 
+      technology toward applicability in surgical care.
+FAU - Fry, Donald E
+AU  - Fry DE
+AD  - MPA Healthcare Solutions, Department of Surgery, Northwestern University Feinberg 
+      School of Medicine , Chicago, Illinois, and Department of Surgery, University of New 
+      Mexico School of Medicine , Albuquerque, New Mexico .
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20180928
+PL  - United States
+TA  - Surg Infect (Larchmt)
+JT  - Surgical infections
+JID - 9815642
+RN  - 0 (Anti-Infective Agents)
+RN  - 0 (Antimicrobial Cationic Peptides)
+SB  - IM
+MH  - Administration, Topical
+MH  - Animals
+MH  - Anti-Infective Agents/*pharmacology/therapeutic use
+MH  - Antimicrobial Cationic Peptides/*pharmacology/therapeutic use
+MH  - Clinical Trials as Topic
+MH  - Drug Evaluation, Preclinical
+MH  - Humans
+MH  - Surgical Wound Infection/prevention & control
+OTO - NOTNLM
+OT  - antimicrobial peptides
+OT  - cathelicidins
+OT  - defensins
+OT  - glycopeptides
+OT  - microbial resistance
+EDAT- 2018/09/29 06:00
+MHDA- 2018/12/18 06:00
+CRDT- 2018/09/29 06:00
+PHST- 2018/09/29 06:00 [pubmed]
+PHST- 2018/12/18 06:00 [medline]
+PHST- 2018/09/29 06:00 [entrez]
+AID - 10.1089/sur.2018.194 [doi]
+PST - ppublish
+SO  - Surg Infect (Larchmt). 2018 Nov/Dec;19(8):804-811. doi: 10.1089/sur.2018.194. Epub 
+      2018 Sep 28.
+
+PMID- 31438824
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200312
+LR  - 20201201
+IS  - 1875-5305 (Electronic)
+IS  - 0929-8665 (Print)
+IS  - 0929-8665 (Linking)
+VI  - 27
+IP  - 1
+DP  - 2020
+TI  - Mini Review on Antimicrobial Peptides, Sources, Mechanism and Recent Applications.
+PG  - 4-16
+LID - 10.2174/0929866526666190822165812 [doi]
+AB  - Antimicrobial peptides in recent years have gained increased interest among 
+      scientists, health professionals and the pharmaceutical companies owing to their 
+      therapeutic potential. These are low molecular weight proteins with broad range 
+      antimicrobial and immuno modulatory activities against infectious bacteria (Gram 
+      positive and Gram negative), viruses and fungi. Inability of micro-organisms to 
+      develop resistance against most of the antimicrobial peptide has made them as an 
+      efficient product which can greatly impact the new era of antimicrobials. In 
+      addition to this these peptides also demonstrates increased efficacy, high 
+      specificity, decreased drug interaction, low toxicity, biological diversity and 
+      direct attacking properties. Pharmaceutical industries are therefore conducting 
+      appropriate clinical trials to develop these peptides as potential therapeutic 
+      drugs. More than 60 peptide drugs have already reached the market and several 
+      hundreds of novel therapeutic peptides are in preclinical and clinical development. 
+      Rational designing can be used further to modify the chemical and physical 
+      properties of existing peptides. This mini review will discuss the sources, 
+      mechanism and recent therapeutic applications of antimicrobial peptides in treatment 
+      of infectious diseases.
+CI  - Copyright© Bentham Science Publishers; For any queries, please email at 
+      epub@benthamscience.net.
+FAU - Boparai, Jaspreet Kaur
+AU  - Boparai JK
+AD  - Department of Biotechnology, Sri Guru Granth Sahib World University, Fatehgarh 
+      Sahib, Punjab, India.
+FAU - Sharma, Pushpender Kumar
+AU  - Sharma PK
+AD  - Department of Biotechnology, Sri Guru Granth Sahib World University, Fatehgarh 
+      Sahib, Punjab, India.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+TA  - Protein Pept Lett
+JT  - Protein and peptide letters
+JID - 9441434
+RN  - 0 (Anti-Infective Agents)
+RN  - 0 (Antimicrobial Cationic Peptides)
+SB  - IM
+MH  - Anti-Infective Agents/*chemistry/*pharmacology
+MH  - Antimicrobial Cationic Peptides/*chemistry/*pharmacology
+MH  - Bacteria/drug effects
+MH  - Drug Interactions
+MH  - Drug Resistance, Microbial
+MH  - Fungi/drug effects
+MH  - Humans
+MH  - Microbial Sensitivity Tests
+MH  - Molecular Weight
+MH  - Treatment Outcome
+MH  - Viruses/drug effects
+PMC - PMC6978648
+OTO - NOTNLM
+OT  - Antimicrobial peptides
+OT  - antibiotic resistance
+OT  - clinical trials
+OT  - immuno modulatory activities
+OT  - infectious diseases
+OT  - therapeutic drugs.
+EDAT- 2019/08/24 06:00
+MHDA- 2020/03/13 06:00
+CRDT- 2019/08/24 06:00
+PHST- 2019/05/24 00:00 [received]
+PHST- 2019/07/17 00:00 [revised]
+PHST- 2019/07/24 00:00 [accepted]
+PHST- 2019/08/24 06:00 [pubmed]
+PHST- 2020/03/13 06:00 [medline]
+PHST- 2019/08/24 06:00 [entrez]
+AID - PPL-EPUB-100414 [pii]
+AID - PPL-27-4 [pii]
+AID - 10.2174/0929866526666190822165812 [doi]
+PST - ppublish
+SO  - Protein Pept Lett. 2020;27(1):4-16. doi: 10.2174/0929866526666190822165812.
+
+PMID- 30980349
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190801
+LR  - 20190801
+IS  - 0065-2598 (Print)
+IS  - 0065-2598 (Linking)
+VI  - 1117
+DP  - 2019
+TI  - Antimicrobial Peptides of Multicellular Organisms: My Perspective.
+PG  - 3-6
+LID - 10.1007/978-981-13-3588-4_1 [doi]
+AB  - Antimicrobial peptides of multicellular organisms were first characterized in the 
+      1980s by investigators who felt that known systems of immunity could not explain 
+      what they observed: the resistance to bacterial infection of a Cecropia moth pupa 
+      lacking antibodies or lymphocytes (cecropins (Steiner 1981)), the potent 
+      microbicidal activity of neutrophils from a rabbit (defensins (Selsted et al. 
+      1985)), and the healing of a wound on the skin of the African clawed frog without 
+      infection in a non-sterile aquarium (magainins (Zasloff 1987)). Since then AMPs have 
+      been discovered in diverse species of fungi, plants, and animals (Seshadri 
+      Sundararajan et al. 2012; Fan et al. 2016; Waghu et al. 2016; Wang et al. 2016). It 
+      is likely that we will discover that every multicellular organism expresses 
+      antimicrobial peptides as a key element of their immune system. Why are 
+      antimicrobial peptides so popular in Nature?
+FAU - Zasloff, Michael
+AU  - Zasloff M
+AD  - MedStar Georgetown Transplant Institute, Georgetown University School of Medicine, 
+      Washington, DC, USA. maz5@georgetown.edu.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Adv Exp Med Biol
+JT  - Advances in experimental medicine and biology
+JID - 0121103
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Cecropins)
+RN  - 0 (Defensins)
+RN  - 0 (Magainins)
+MH  - Animals
+MH  - Antimicrobial Cationic Peptides/*physiology
+MH  - *Bacterial Infections
+MH  - Cecropins
+MH  - Defensins
+MH  - Magainins
+MH  - Moths
+MH  - Rabbits
+MH  - Skin
+MH  - Xenopus
+EDAT- 2019/04/14 06:00
+MHDA- 2019/08/02 06:00
+CRDT- 2019/04/14 06:00
+PHST- 2019/04/14 06:00 [entrez]
+PHST- 2019/04/14 06:00 [pubmed]
+PHST- 2019/08/02 06:00 [medline]
+AID - 10.1007/978-981-13-3588-4_1 [doi]
+PST - ppublish
+SO  - Adv Exp Med Biol. 2019;1117:3-6. doi: 10.1007/978-981-13-3588-4_1.
+
+PMID- 29351202
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181221
+LR  - 20181221
+IS  - 2218-273X (Electronic)
+IS  - 2218-273X (Linking)
+VI  - 8
+IP  - 1
+DP  - 2018 Jan 19
+TI  - Antimicrobial Peptides: Diversity, Mechanism of Action and Strategies to Improve the 
+      Activity and Biocompatibility In Vivo.
+LID - 10.3390/biom8010004 [doi]
+LID - 4
+AB  - Antibiotic resistance is projected as one of the greatest threats to human health in 
+      the future and hence alternatives are being explored to combat resistance. 
+      Antimicrobial peptides (AMPs) have shown great promise, because use of AMPs leads 
+      bacteria to develop no or low resistance. In this review, we discuss the diversity, 
+      history and the various mechanisms of action of AMPs. Although many AMPs have 
+      reached clinical trials, to date not many have been approved by the US Food and Drug 
+      Administration (FDA) due to issues with toxicity, protease cleavage and short 
+      half-life. Some of the recent strategies developed to improve the activity and 
+      biocompatibility of AMPs, such as chemical modifications and the use of delivery 
+      systems, are also reviewed in this article.
+FAU - Kumar, Prashant
+AU  - Kumar P
+AD  - Department of Chemistry, University of British Columbia, 2036 Main Mall, Vancouver, 
+      BC V6T 1Z1, Canada. pkumar02@chem.ubc.ca.
+AD  - Centre for Blood Research, Department of Pathology and Laboratory Medicine, 
+      University of British Columbia, 2350 Health Sciences Mall, Life Sciences Centre, 
+      Vancouver, BC V6T 1Z3, Canada. pkumar02@chem.ubc.ca.
+FAU - Kizhakkedathu, Jayachandran N
+AU  - Kizhakkedathu JN
+AD  - Department of Chemistry, University of British Columbia, 2036 Main Mall, Vancouver, 
+      BC V6T 1Z1, Canada. jay@pathology.ubc.ca.
+AD  - Centre for Blood Research, Department of Pathology and Laboratory Medicine, 
+      University of British Columbia, 2350 Health Sciences Mall, Life Sciences Centre, 
+      Vancouver, BC V6T 1Z3, Canada. jay@pathology.ubc.ca.
+FAU - Straus, Suzana K
+AU  - Straus SK
+AD  - Department of Chemistry, University of British Columbia, 2036 Main Mall, Vancouver, 
+      BC V6T 1Z1, Canada. sstraus@chem.ubc.ca.
+LA  - eng
+GR  - CIHR/Canada
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20180119
+TA  - Biomolecules
+JT  - Biomolecules
+JID - 101596414
+RN  - 0 (Antimicrobial Cationic Peptides)
+SB  - IM
+MH  - Animals
+MH  - Antimicrobial Cationic Peptides/adverse 
+      effects/chemistry/classification/*pharmacology
+MH  - Bacteria
+MH  - Cell Membrane/drug effects
+MH  - Humans
+PMC - PMC5871973
+OTO - NOTNLM
+OT  - *antimicrobial peptides
+OT  - *biocompatibility
+OT  - *bioconjugation
+OT  - *chemical modification
+OT  - *delivery systems
+OT  - *mechanism of action
+OT  - *proteolysis
+COIS- The authors declare no conflict of interest.
+EDAT- 2018/01/20 06:00
+MHDA- 2018/12/24 06:00
+CRDT- 2018/01/20 06:00
+PHST- 2017/12/20 00:00 [received]
+PHST- 2018/01/12 00:00 [revised]
+PHST- 2018/01/12 00:00 [accepted]
+PHST- 2018/01/20 06:00 [entrez]
+PHST- 2018/01/20 06:00 [pubmed]
+PHST- 2018/12/24 06:00 [medline]
+AID - biom8010004 [pii]
+AID - biomolecules-08-00004 [pii]
+AID - 10.3390/biom8010004 [doi]
+PST - epublish
+SO  - Biomolecules. 2018 Jan 19;8(1):4. doi: 10.3390/biom8010004.
+
+PMID- 24811407
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150817
+LR  - 20211021
+IS  - 1432-0614 (Electronic)
+IS  - 0175-7598 (Print)
+IS  - 0175-7598 (Linking)
+VI  - 98
+IP  - 13
+DP  - 2014 Jul
+TI  - Insect antimicrobial peptides and their applications.
+PG  - 5807-22
+LID - 10.1007/s00253-014-5792-6 [doi]
+AB  - Insects are one of the major sources of antimicrobial peptides/proteins (AMPs). 
+      Since observation of antimicrobial activity in the hemolymph of pupae from the giant 
+      silk moths Samia Cynthia and Hyalophora cecropia in 1974 and purification of first 
+      insect AMP (cecropin) from H. cecropia pupae in 1980, over 150 insect AMPs have been 
+      purified or identified. Most insect AMPs are small and cationic, and they show 
+      activities against bacteria and/or fungi, as well as some parasites and viruses. 
+      Insect AMPs can be classified into four families based on their structures or unique 
+      sequences: the α-helical peptides (cecropin and moricin), cysteine-rich peptides 
+      (insect defensin and drosomycin), proline-rich peptides (apidaecin, drosocin, and 
+      lebocin), and glycine-rich peptides/proteins (attacin and gloverin). Among insect 
+      AMPs, defensins, cecropins, proline-rich peptides, and attacins are common, while 
+      gloverins and moricins have been identified only in Lepidoptera. Most active AMPs 
+      are small peptides of 20-50 residues, which are generated from larger inactive 
+      precursor proteins or pro-proteins, but gloverins (~14 kDa) and attacins (~20 kDa) 
+      are large antimicrobial proteins. In this mini-review, we will discuss current 
+      knowledge and recent progress in several classes of insect AMPs, including insect 
+      defensins, cecropins, attacins, lebocins and other proline-rich peptides, gloverins, 
+      and moricins, with a focus on structural-functional relationships and their 
+      potential applications.
+FAU - Yi, Hui-Yu
+AU  - Yi HY
+AD  - College of Life Science and Technology, Jinan University, Guangzhou, 510632, China.
+FAU - Chowdhury, Munmun
+AU  - Chowdhury M
+FAU - Huang, Ya-Dong
+AU  - Huang YD
+FAU - Yu, Xiao-Qiang
+AU  - Yu XQ
+LA  - eng
+GR  - R01 GM066356/GM/NIGMS NIH HHS/United States
+PT  - Journal Article
+PT  - Review
+DEP - 20140509
+TA  - Appl Microbiol Biotechnol
+JT  - Applied microbiology and biotechnology
+JID - 8406612
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Insect Proteins)
+SB  - IM
+MH  - Animals
+MH  - Antimicrobial Cationic Peptides/chemistry/classification/isolation & 
+      purification/*pharmacology
+MH  - Bacteria/*drug effects
+MH  - Fungi/*drug effects
+MH  - Insect Proteins/chemistry/classification/isolation & purification/*pharmacology
+MH  - Insecta/*chemistry
+MH  - Protein Conformation
+MH  - Viruses/*drug effects
+PMC - PMC4083081
+MID - NIHMS594012
+EDAT- 2014/05/09 06:00
+MHDA- 2015/08/19 06:00
+CRDT- 2014/05/10 06:00
+PHST- 2014/02/06 00:00 [received]
+PHST- 2014/04/23 00:00 [accepted]
+PHST- 2014/04/21 00:00 [revised]
+PHST- 2014/05/10 06:00 [entrez]
+PHST- 2014/05/09 06:00 [pubmed]
+PHST- 2015/08/19 06:00 [medline]
+AID - 10.1007/s00253-014-5792-6 [doi]
+PST - ppublish
+SO  - Appl Microbiol Biotechnol. 2014 Jul;98(13):5807-22. doi: 10.1007/s00253-014-5792-6. 
+      Epub 2014 May 9.
+
+PMID- 28035594
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170309
+LR  - 20201214
+IS  - 1976-3794 (Electronic)
+IS  - 1225-8873 (Linking)
+VI  - 55
+IP  - 1
+DP  - 2017 Jan
+TI  - The therapeutic applications of antimicrobial peptides (AMPs): a patent review.
+PG  - 1-12
+LID - 10.1007/s12275-017-6452-1 [doi]
+AB  - Antimicrobial peptides (AMPs) are small molecules with a broad spectrum of 
+      antibiotic activities against bacteria, yeasts, fungi, and viruses and cytotoxic 
+      activity on cancer cells, in addition to anti-inflammatory and immunomodulatory 
+      activities. Therefore, AMPs have garnered interest as novel therapeutic agents. 
+      Because of the rapid increase in drug-resistant pathogenic microorganisms, AMPs from 
+      synthetic and natural sources have been developed using alternative antimicrobial 
+      strategies. This article presents a broad analysis of patents referring to the 
+      therapeutic applications of AMPs since 2009. The review focuses on the universal 
+      trends in the effective design, mechanism, and biological evolution of AMPs.
+FAU - Kang, Hee-Kyoung
+AU  - Kang HK
+AD  - Department of Biomedical Sciences, Chosun University, Gwangju, 61452, Republic of 
+      Korea.
+FAU - Kim, Cheolmin
+AU  - Kim C
+AD  - Department of Bioinformatics, Kongju National University, Kongju, 32588, Republic of 
+      Korea.
+FAU - Seo, Chang Ho
+AU  - Seo CH
+AD  - Department of Bioinformatics, Kongju National University, Kongju, 32588, Republic of 
+      Korea.
+FAU - Park, Yoonkyung
+AU  - Park Y
+AD  - Department of Biomedical Sciences, Chosun University, Gwangju, 61452, Republic of 
+      Korea. y_k_park@chosun.ac.kr.
+AD  - Research Center for Proteinaceous Materials, Chosun University, Gwangju, 61452, 
+      Republic of Korea. y_k_park@chosun.ac.kr.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20161230
+PL  - Korea (South)
+TA  - J Microbiol
+JT  - Journal of microbiology (Seoul, Korea)
+JID - 9703165
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Anti-Infective Agents)
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 3DD771JO2H (ropocamptide)
+SB  - IM
+MH  - Anti-Bacterial Agents/pharmacology
+MH  - Anti-Infective Agents/pharmacology/*therapeutic use
+MH  - Antimicrobial Cationic Peptides/chemical 
+      synthesis/*chemistry/metabolism/pharmacology/*therapeutic use
+MH  - Bacteria/*drug effects
+MH  - Fungi/*drug effects
+MH  - Humans
+MH  - Patents as Topic
+MH  - Viruses/*drug effects
+OTO - NOTNLM
+OT  - *antimicrobial peptide
+OT  - *drug candidate
+OT  - *pathogenic bacteria
+OT  - *therapies
+EDAT- 2016/12/31 06:00
+MHDA- 2017/03/10 06:00
+CRDT- 2016/12/31 06:00
+PHST- 2016/09/07 00:00 [received]
+PHST- 2016/11/04 00:00 [accepted]
+PHST- 2016/11/02 00:00 [revised]
+PHST- 2016/12/31 06:00 [entrez]
+PHST- 2016/12/31 06:00 [pubmed]
+PHST- 2017/03/10 06:00 [medline]
+AID - 10.1007/s12275-017-6452-1 [pii]
+AID - 10.1007/s12275-017-6452-1 [doi]
+PST - ppublish
+SO  - J Microbiol. 2017 Jan;55(1):1-12. doi: 10.1007/s12275-017-6452-1. Epub 2016 Dec 30.
+
+PMID- 34769122
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211230
+LR  - 20211230
+IS  - 1422-0067 (Electronic)
+IS  - 1422-0067 (Linking)
+VI  - 22
+IP  - 21
+DP  - 2021 Oct 28
+TI  - Antimicrobial Peptides: An Update on Classifications and Databases.
+LID - 10.3390/ijms222111691 [doi]
+LID - 11691
+AB  - Antimicrobial peptides (AMPs) are distributed across all kingdoms of life and are an 
+      indispensable component of host defenses. They consist of predominantly short 
+      cationic peptides with a wide variety of structures and targets. Given the 
+      ever-emerging resistance of various pathogens to existing antimicrobial therapies, 
+      AMPs have recently attracted extensive interest as potential therapeutic agents. As 
+      the discovery of new AMPs has increased, many databases specializing in AMPs have 
+      been developed to collect both fundamental and pharmacological information. In this 
+      review, we summarize the sources, structures, modes of action, and classifications 
+      of AMPs. Additionally, we examine current AMP databases, compare valuable 
+      computational tools used to predict antimicrobial activity and mechanisms of action, 
+      and highlight new machine learning approaches that can be employed to improve AMP 
+      activity to combat global antimicrobial resistance.
+FAU - Bin Hafeez, Ahmer
+AU  - Bin Hafeez A
+AD  - Centre of Biotechnology and Microbiology, University of Peshawar, Peshawar 25120, 
+      Pakistan.
+FAU - Jiang, Xukai
+AU  - Jiang X
+AD  - Infection and Immunity Program, Department of Microbiology, Biomedicine Discovery 
+      Institute, Monash University, Clayton, VIC 3800, Australia.
+AD  - National Glycoengineering Research Center, Shandong University, Qingdao 266237, 
+      China.
+FAU - Bergen, Phillip J
+AU  - Bergen PJ
+AUID- ORCID: 0000-0001-5671-9880
+AD  - Infection and Immunity Program, Department of Microbiology, Biomedicine Discovery 
+      Institute, Monash University, Clayton, VIC 3800, Australia.
+FAU - Zhu, Yan
+AU  - Zhu Y
+AUID- ORCID: 0000-0001-7342-3782
+AD  - Infection and Immunity Program, Department of Microbiology, Biomedicine Discovery 
+      Institute, Monash University, Clayton, VIC 3800, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20211028
+TA  - Int J Mol Sci
+JT  - International journal of molecular sciences
+JID - 101092791
+RN  - 0 (Antimicrobial Peptides)
+SB  - IM
+MH  - Animals
+MH  - Antimicrobial Peptides/*chemistry/classification/metabolism
+MH  - *Databases, Chemical
+MH  - Humans
+MH  - Molecular Structure
+PMC - PMC8583803
+OTO - NOTNLM
+OT  - BLAST
+OT  - HMM
+OT  - antimicrobial peptide
+OT  - database
+OT  - machine learning
+OT  - mode of action
+OT  - structure
+COIS- The authors declare no conflict of interest.
+EDAT- 2021/11/14 06:00
+MHDA- 2021/12/31 06:00
+CRDT- 2021/11/13 01:04
+PHST- 2021/09/22 00:00 [received]
+PHST- 2021/10/24 00:00 [revised]
+PHST- 2021/10/25 00:00 [accepted]
+PHST- 2021/11/13 01:04 [entrez]
+PHST- 2021/11/14 06:00 [pubmed]
+PHST- 2021/12/31 06:00 [medline]
+AID - ijms222111691 [pii]
+AID - ijms-22-11691 [pii]
+AID - 10.3390/ijms222111691 [doi]
+PST - epublish
+SO  - Int J Mol Sci. 2021 Oct 28;22(21):11691. doi: 10.3390/ijms222111691.
+
+PMID- 34090965
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220112
+LR  - 20220112
+IS  - 1872-8294 (Electronic)
+IS  - 0169-409X (Linking)
+VI  - 175
+DP  - 2021 Aug
+TI  - Antimicrobial peptides towards clinical application: Delivery and formulation.
+PG  - 113818
+LID - S0169-409X(21)00192-7 [pii]
+LID - 10.1016/j.addr.2021.05.028 [doi]
+AB  - Antimicrobial peptides hold promise to supplement small molecules antibiotics and 
+      combat the multidrug resistant microbes. There are however technical hurdles towards 
+      the clinical applications, largely due to the inherent limitations of peptides 
+      including stability, cytotoxicity and bioavailability. Here we review recent studies 
+      concerning the delivery and formulation of antimicrobial peptides, by categorizing 
+      the different strategies as driven by physical interactions or chemical conjugation 
+      reactions, and carriers ranging from inorganic based ones (including gold, silver 
+      and silica based solid nanoparticles) to organic ones (including micelle, liposome 
+      and hydrogel) are covered. Besides, targeted delivery of antimicrobial peptides or 
+      using antimicrobial peptides as the targeting moiety, and responsive release of the 
+      peptides after delivery are also reviewed. Lastly, strategies towards the increase 
+      of oral bioavailability, from both physical or chemical methods, are highlighted. 
+      Altogether, this article provides a comprehensive review of the recent progress of 
+      the delivery and formulation of antimicrobial peptides towards clinical application.
+CI  - Copyright © 2021 Elsevier B.V. All rights reserved.
+FAU - Wang, Cheng
+AU  - Wang C
+AD  - Jiangsu Key Laboratory of Advanced Catalytic Materials and Technology, School of 
+      Pharmacy, Changzhou University, Changzhou, Jiangsu 213164, China.
+FAU - Hong, Tingting
+AU  - Hong T
+AD  - Jiangsu Key Laboratory of Advanced Catalytic Materials and Technology, School of 
+      Pharmacy, Changzhou University, Changzhou, Jiangsu 213164, China.
+FAU - Cui, Pengfei
+AU  - Cui P
+AD  - Jiangsu Key Laboratory of Advanced Catalytic Materials and Technology, School of 
+      Pharmacy, Changzhou University, Changzhou, Jiangsu 213164, China.
+FAU - Wang, Jianhao
+AU  - Wang J
+AD  - Jiangsu Key Laboratory of Advanced Catalytic Materials and Technology, School of 
+      Pharmacy, Changzhou University, Changzhou, Jiangsu 213164, China. Electronic 
+      address: minuswan@163.com.
+FAU - Xia, Jiang
+AU  - Xia J
+AD  - Department of Chemistry, The Chinese University of Hong Kong, Shatin, Hong Kong 
+      Special Administrative Region. Electronic address: jiangxia@cuhk.edu.hk.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+DEP - 20210604
+PL  - Netherlands
+TA  - Adv Drug Deliv Rev
+JT  - Advanced drug delivery reviews
+JID - 8710523
+RN  - 0 (Anti-Bacterial Agents)
+RN  - 0 (Antimicrobial Peptides)
+RN  - 0 (Nanoparticle Drug Delivery System)
+SB  - IM
+MH  - Animals
+MH  - Anti-Bacterial Agents/*administration & dosage/chemical synthesis
+MH  - Antimicrobial Peptides/*administration & dosage/chemical synthesis
+MH  - Drug Compounding/*methods
+MH  - Drug Delivery Systems/*methods
+MH  - Humans
+MH  - Nanoparticle Drug Delivery System
+OTO - NOTNLM
+OT  - *Antimicrobial peptides
+OT  - *Bioavailability
+OT  - *Bioconjugation
+OT  - *Delivery
+OT  - *Formulation
+COIS- Declaration of Competing Interest The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared to 
+      influence the work reported in this paper.
+EDAT- 2021/06/07 06:00
+MHDA- 2022/01/13 06:00
+CRDT- 2021/06/06 20:47
+PHST- 2021/01/19 00:00 [received]
+PHST- 2021/05/14 00:00 [revised]
+PHST- 2021/05/30 00:00 [accepted]
+PHST- 2021/06/07 06:00 [pubmed]
+PHST- 2022/01/13 06:00 [medline]
+PHST- 2021/06/06 20:47 [entrez]
+AID - S0169-409X(21)00192-7 [pii]
+AID - 10.1016/j.addr.2021.05.028 [doi]
+PST - ppublish
+SO  - Adv Drug Deliv Rev. 2021 Aug;175:113818. doi: 10.1016/j.addr.2021.05.028. Epub 2021 
+      Jun 4.
+
+PMID- 30980360
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190801
+LR  - 20201214
+IS  - 0065-2598 (Print)
+IS  - 0065-2598 (Linking)
+VI  - 1117
+DP  - 2019
+TI  - Design of Antimicrobial Peptides: Progress Made with Human Cathelicidin LL-37.
+PG  - 215-240
+LID - 10.1007/978-981-13-3588-4_12 [doi]
+AB  - The incorporation of the innate immune system into humans is essential for survival 
+      and health due to the rapid replication of invading microbes and the delayed action 
+      of the adaptive immune system. Antimicrobial peptides are important components of 
+      human innate immunity. Over 100 such peptides have been identified in various human 
+      tissues. Human cathelicidin LL-37 is best studied, and there has been a growing 
+      interest in designing new peptides based on LL-37. This chapter describes the 
+      alternative processing of the human cathelicidin precursor, protease digestion, and 
+      lab cutting of LL-37. Both a synthetic peptide library and structure-based design 
+      are utilized to identify the active regions. Although challenging, the determination 
+      of the 3D structure of LL-37 enabled the identification of the core antimicrobial 
+      region. The minimal region of LL-37 can be function-dependent. We discuss the design 
+      and potential applications of LL-37 into antibacterial, antibiofilm, antiviral, 
+      antifungal, immune modulating, and anticancer peptides. LL-37 has been engineered 
+      into 17BIPHE2, a stable, selective, and potent antimicrobial, antibiofilm, and 
+      anticancer peptide. Both 17BIPHE2 and SAAP-148 can eliminate the ESKAPE pathogens 
+      and show topical in vivo antibiofilm efficacy. Also discussed are other application 
+      strategies, including peptide formulation, antimicrobial implants, and 
+      peptide-inducing factors such as vitamin D and sunlight. Finally, we summarize what 
+      we learned from peptide design based on human LL-37.
+FAU - Wang, Guangshun
+AU  - Wang G
+AD  - Department of Pathology and Microbiology, College of Medicine, University of 
+      Nebraska Medical Center, Omaha, NE, USA. gwang@unmc.edu.
+FAU - Narayana, Jayaram Lakshmaiah
+AU  - Narayana JL
+AD  - Department of Pathology and Microbiology, College of Medicine, University of 
+      Nebraska Medical Center, Omaha, NE, USA.
+FAU - Mishra, Biswajit
+AU  - Mishra B
+AD  - Department of Pathology and Microbiology, College of Medicine, University of 
+      Nebraska Medical Center, Omaha, NE, USA.
+FAU - Zhang, Yingxia
+AU  - Zhang Y
+AD  - Department of Pathology and Microbiology, College of Medicine, University of 
+      Nebraska Medical Center, Omaha, NE, USA.
+FAU - Wang, Fangyu
+AU  - Wang F
+AD  - Department of Pathology and Microbiology, College of Medicine, University of 
+      Nebraska Medical Center, Omaha, NE, USA.
+FAU - Wang, Chunfeng
+AU  - Wang C
+AD  - Department of Pathology and Microbiology, College of Medicine, University of 
+      Nebraska Medical Center, Omaha, NE, USA.
+FAU - Zarena, D
+AU  - Zarena D
+AD  - Department of Pathology and Microbiology, College of Medicine, University of 
+      Nebraska Medical Center, Omaha, NE, USA.
+FAU - Lushnikova, Tamara
+AU  - Lushnikova T
+AD  - Department of Pathology and Microbiology, College of Medicine, University of 
+      Nebraska Medical Center, Omaha, NE, USA.
+FAU - Wang, Xiuqing
+AU  - Wang X
+AD  - Department of Pathology and Microbiology, College of Medicine, University of 
+      Nebraska Medical Center, Omaha, NE, USA.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Adv Exp Med Biol
+JT  - Advances in experimental medicine and biology
+JID - 0121103
+RN  - 0 (Anti-Infective Agents)
+RN  - 0 (Antimicrobial Cationic Peptides)
+RN  - 0 (Cathelicidins)
+RN  - 3DD771JO2H (ropocamptide)
+MH  - Anti-Infective Agents/*pharmacology
+MH  - Antimicrobial Cationic Peptides/*pharmacology
+MH  - Cathelicidins
+MH  - Humans
+MH  - Protein Engineering
+OTO - NOTNLM
+OT  - Anticancer peptides
+OT  - Antimicrobial peptides
+OT  - Antiviral peptides
+OT  - Cathelicidins
+OT  - LL-37
+OT  - Peptide design
+EDAT- 2019/04/14 06:00
+MHDA- 2019/08/02 06:00
+CRDT- 2019/04/14 06:00
+PHST- 2019/04/14 06:00 [entrez]
+PHST- 2019/04/14 06:00 [pubmed]
+PHST- 2019/08/02 06:00 [medline]
+AID - 10.1007/978-981-13-3588-4_12 [doi]
+PST - ppublish
+SO  - Adv Exp Med Biol. 2019;1117:215-240. doi: 10.1007/978-981-13-3588-4_12.
+
+PMID- 33878901
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220201
+LR  - 20220201
+IS  - 1750-7448 (Electronic)
+IS  - 1750-743X (Linking)
+VI  - 13
+IP  - 8
+DP  - 2021 Jun
+TI  - Antimicrobial/anticancer peptides: bioactive molecules and therapeutic agents.
+PG  - 669-684
+LID - 10.2217/imt-2020-0312 [doi]
+AB  - Antimicrobial peptides (AMPs) have been known as host-defense peptides. These 
+      cationic and amphipathic peptides are relatively short (∼5-50 L-amino acids) with 
+      molecular weight less than 10 kDa. AMPs have various roles including 
+      immunomodulatory, angiogenic and antitumor activities. Anticancer peptides (ACPs) 
+      are a main subset of AMPs as a novel therapeutic approach against tumor cells. The 
+      physicochemical properties of the ACPs influence their cell penetration, stability 
+      and efficiency of targeting. Up to now, several databases and web servers for in 
+      silico prediction of AMPs/ACPs have been established prior to the lab analysis. The 
+      present review focuses on the recent advancement about AMPs/ACPs activities 
+      including their in silico prediction by computational tools and their potential 
+      applications as therapeutic agents especially in cancer.
+FAU - Kardani, Kimia
+AU  - Kardani K
+AUID- ORCID: 0000-0003-0357-6331
+AD  - Department of Hepatitis & AIDS, Pasteur Institute of Iran, Tehran, Iran.
+AD  - Iranian Comprehensive Hemophilia Care Center, Tehran, Iran.
+FAU - Bolhassani, Azam
+AU  - Bolhassani A
+AUID- ORCID: 0000-0001-7363-7406
+AD  - Department of Hepatitis & AIDS, Pasteur Institute of Iran, Tehran, Iran.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20210421
+PL  - England
+TA  - Immunotherapy
+JT  - Immunotherapy
+JID - 101485158
+RN  - 0 (Antimicrobial Peptides)
+SB  - IM
+MH  - Animals
+MH  - *Antimicrobial Peptides
+MH  - Humans
+MH  - *Neoplasms
+OTO - NOTNLM
+OT  - *anticancer peptides
+OT  - *antimicrobial peptides
+OT  - *biological activity
+OT  - *cancer
+OT  - *classification
+OT  - *host-defense peptides
+OT  - *in silico prediction
+OT  - *mechanisms of action
+OT  - *peptide antibiotics
+OT  - *physicochemical properties
+EDAT- 2021/04/22 06:00
+MHDA- 2022/02/02 06:00
+CRDT- 2021/04/21 05:30
+PHST- 2021/04/22 06:00 [pubmed]
+PHST- 2022/02/02 06:00 [medline]
+PHST- 2021/04/21 05:30 [entrez]
+AID - 10.2217/imt-2020-0312 [doi]
+PST - ppublish
+SO  - Immunotherapy. 2021 Jun;13(8):669-684. doi: 10.2217/imt-2020-0312. Epub 2021 Apr 21.
